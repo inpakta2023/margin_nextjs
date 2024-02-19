@@ -120,7 +120,6 @@ const Footer = () => {
           <span className="text-xs">
             © {new Date().getFullYear()} Margin Next.js, Made by{" "}
             <a href="https://inpakta.com" className="hover:text-primary">
-              <INPAKTA></INPAKTA>
             </a>
           </span>
         </div>
